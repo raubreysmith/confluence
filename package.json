@@ -1,0 +1,13 @@
+{
+  "name": "Aubit.Confluence",
+  "version": "1.0.0",
+  "main": "confluence.js",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.88.0"
+  },
+  "scripts": {
+    "spaces": "node spaces.js",
+    "users": "node users.js"
+  }
+}
